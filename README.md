@@ -232,3 +232,5 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+   <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines
