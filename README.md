@@ -234,3 +234,18 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines
+
+<a href='https://vol-tah-web.vercel.app/' target="_blank">
+  <img alt='VolTah Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+ <br>
+  <a href="https://files.catbox.moe/se5e6e.jpg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div> 
+<p align="center">
+  <a href="https://render.com" target="_blank" rel="noopener noreferrer">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🌍+virus+Pulse:+Alive😍+follow+me+on+WhatsApp;🔮++254710329917+WhatsApp+Bot;🤪+Always+Online!" alt="Quantum Pulse Animation">
+</p>href="https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8"><img title="Author" 
