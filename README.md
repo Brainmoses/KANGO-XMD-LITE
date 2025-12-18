@@ -15,9 +15,9 @@
 
 <p align="center">
 <a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD-LITE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD-LITE?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD-LITE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD-LITE?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD-LITE/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD-LITE?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/express-js-on-vercel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD-LITE?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/express-js-on-vercel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD-LITE?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/express-js-on-vercel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD-LITE?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD-LITE?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD-LITE&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
